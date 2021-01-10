@@ -14,3 +14,4 @@ x-user-agent
 "authorization":"Basic MjAxOTA5MDkxODA4MDAwMDQ5NTc5NDpaMGlvRDlkeU5qVEs0T0VtOVU1blVMcTBBUnNPZEdIYg==",
 elastic-apm-traceparent
 servername
+
